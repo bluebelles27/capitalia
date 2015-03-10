@@ -1,5 +1,6 @@
 # Capitalia
-===========
+
+So Angular 2.0 has dropped a really early alpha... That probably has a LARGE amount of bugs... But those that know anything about me know that I live for development on the edge. **SO** let's get leaning over the cliff and see if we can't build an app in Angular 2!
 
 This application will provide integration with [geonames.org](http://geonames.org) to provide an interface that allows users to explore difference countries and their capitals.
 
